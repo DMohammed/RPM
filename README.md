@@ -1,10 +1,10 @@
 # RPM
-this is a RPM Measuring using Arduino by Arduino Timers 
-first u need install timer.h library
+this is an RPM Measuring using Arduino by Arduino Timers 
+first u need to install timer.h library
 
 you can download from this link https://github.com/brunocalou/Timer
 
-Secend one for STM32 + OLED 0.96 and use this librarys for this one
+Second one for STM32 + OLED 0.96 and use these libraries for this one
 
 https://github.com/adafruit/Adafruit_SSD1306
 
